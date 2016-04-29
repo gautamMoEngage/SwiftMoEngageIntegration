@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MoEngage-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SwiftMoEngageIntegration.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SwiftMoEngageIntegrationTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3884E2CC0BE4BED300CBD42D77D040F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3CFEE5318DA9A5CEA0BBA89FAE280579</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>59CBDDBC06F1F96BD0E71DF055E9A4FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B24DD0ED21B37C128D5143120AC6C99</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

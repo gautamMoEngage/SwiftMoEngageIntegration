@@ -1,0 +1,2 @@
+MOENGAGE_IOS_SDK_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/MoEngage-iOS-SDK"
+MOENGAGE_IOS_SDK_OTHER_LDFLAGS = -l"MoEngageSDK" -framework "CoreLocation" -framework "Security" -framework "SystemConfiguration"
