@@ -7,8 +7,7 @@
 //
 
 import UIKit
-//import <MoEngage-iOS-SDK/MoEngage.h>
-
+import MoEngage_iOS_SDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -32,14 +31,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 //        pData.removeObjectForKey("sdf")
 //        
 //        
-        
-        var dict = Dictionary<String, Array<Int>>()
-        
-        dict["key"]! += [1]
-        dict["key"]!.append(1)
-        dict["key"]?.append(1)
-        
-//        var myDicto = [String : AnyObject?]
+//        
+//        var dict = Dictionary<String, Array<Int>>()
+//        
+//        dict["key"]! += [1]
+//        dict["key"]!.append(1)
+//        dict["key"]?.append(1)
+//        
+////        var myDicto = [String : AnyObject?]
         
         let purchaseDict = NSMutableDictionary()
         purchaseDict .setObject("Moto E", forKey: "product")

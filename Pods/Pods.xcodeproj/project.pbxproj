@@ -10,113 +10,42 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>01CFC84A07D665D298AFDC2ADC955DD9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7B72F692ECFBE7C29F0E1D06C5E7E072</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>02191FFB24B1BD5AFE093AB974578F53</key>
+		<key>001CECC07C0ADEAC2EBCBBCE20938291</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegration-dummy.m</string>
+			<string>MoEngage-iOS-SDK-umbrella.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>0316360C6E07577ACE0EB0076B144136</key>
+		<key>036AE86495DF02F58B200682DE280F03</key>
 		<dict>
 			<key>fileRef</key>
-			<string>18DF7A5085EF7F94508F970E57D722EA</string>
+			<string>3C593D9577027D05F925CE1CB6F4D6EF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>06B231F0910E12566EC4FBF3AEC5032A</key>
+		<key>05C332E91492F2293DE2525AD314DB2F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>MOInboxTableViewCell.m</string>
+			<string>MOInboxTableViewCell.h</string>
 			<key>path</key>
-			<string>MOInbox/MOInboxTableViewCell.m</string>
+			<string>MOInbox/MOInboxTableViewCell.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>0930EA39A0AAB79C01AD319FEF3CDBEB</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>MoEngage-iOS-SDK</string>
-			<key>target</key>
-			<string>59CBDDBC06F1F96BD0E71DF055E9A4FC</string>
-			<key>targetProxy</key>
-			<string>6F629D2DCD9C11A7BD31D278C8A19571</string>
-		</dict>
-		<key>09BA44AF161099DF4E3B22655533B861</key>
-		<dict>
-			<key>fileRef</key>
-			<string>29440D3CCD8788D08D7D4413E9DE533C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-ObjC</string>
-			</dict>
-		</dict>
-		<key>09EE8564AB4557751D0EBEF24CB2FAF3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>MoEngage-iOS-SDK</string>
-			<key>target</key>
-			<string>59CBDDBC06F1F96BD0E71DF055E9A4FC</string>
-			<key>targetProxy</key>
-			<string>687C36384F249E431E4DCA749966436C</string>
-		</dict>
-		<key>0A26685345FA18B1A8D6984D6B9155BC</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>6A38E26D4CB2F913E119B0C10A959AB8</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.2</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>0D3EFDDFEAD4F220162626C22190CF75</key>
+		<key>05DBD86572391175BCCF48AAE4FE1C84</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -125,154 +54,86 @@
 			<key>lastKnownFileType</key>
 			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegrationTests.release.xcconfig</string>
+			<string>Pods-SwiftMoEngageIntegration.debug.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>13677ECA91CBEDBEC4392FC33CA256B3</key>
+		<key>0995606ACE3632CBCF2221F793C1023A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MOInboxExposedConstants.m</string>
 			<key>path</key>
-			<string>Pods.debug.xcconfig</string>
+			<string>MOInbox/MOInboxExposedConstants.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>14B8B9B15ECBE87983FF987239AB2D7B</key>
+		<key>09A742B24E963CB8A01AE15FE39BCB7E</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>E558C962428952EE1D7330CD61D78986</string>
+				<string>43B210F2717BD243B0D2E6652840B77E</string>
+				<string>AE90DBBEFC02479E0151B90CD4BD8335</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Frameworks</string>
+			<string>Resources</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>1624AE706E644E84F6B925EE96C26068</key>
+		<key>0B1B6EC1CE4224D250E68E1A769C75E2</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>children</key>
 			<array>
-				<string>6DAD8A1F930B4ED51F8FDB8E5BD0D582</string>
-				<string>D5C274BD0E53FC33C2F45D821390D1FE</string>
-				<string>5CBB40A342A62FDDBA77B7B53633F37B</string>
-				<string>C10525F45C2A13233F38F9E988EB134F</string>
+				<string>CAE997699B51CA43FFE4024FACD987BC</string>
+				<string>3C593D9577027D05F925CE1CB6F4D6EF</string>
+				<string>F242AC10FCA1119AFADF8F5D31BC0E22</string>
+				<string>770D0E1F82EBF30E943946E74AF73E34</string>
 			</array>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>17A0C31E7F3990449EC837D50D223D2A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegrationTests-resources.sh</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>iOS</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>18D86351EA3FC414221D37D563EF869E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>9426B258B9C93442CD7AC52E09A7798B</string>
-				<string>85ABA59863352A77A38AEDCB431EE511</string>
-				<string>9094B85EAC580863DC4B91F2931EC367</string>
-				<string>E8D5DCA44D077CC0D55F18C470F9DFEB</string>
-				<string>E7F0F6D5C0D5CC551429B762F305A4DD</string>
-				<string>01CFC84A07D665D298AFDC2ADC955DD9</string>
-				<string>0316360C6E07577ACE0EB0076B144136</string>
-				<string>5DF7F56EE77F7C8CFA0764E1584BA8C4</string>
-				<string>5A915B41AB07A7746E9C6515EBC6A73B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>18DF7A5085EF7F94508F970E57D722EA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MOInboxViewController.h</string>
-			<key>path</key>
-			<string>MOInbox/MOInboxViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1AE5FE92446C57918F056C1F48B82815</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MOGeofenceHandler.h</string>
-			<key>path</key>
-			<string>MOGeofence/MOGeofenceHandler.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1CB120F896A0AD708541AD48DBDF4694</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>C3D610CE995F78AC48CE4ED5146FD37D</string>
-				<string>34057BC623B823E659B0E0CD9BA16DD5</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2446E173FF9446C090B8603A72D87582</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>MoEngage-iOS-SDK</string>
-			<key>target</key>
-			<string>59CBDDBC06F1F96BD0E71DF055E9A4FC</string>
-			<key>targetProxy</key>
-			<string>EFBDD4DA690DE2B1451E5990A4E021CA</string>
-		</dict>
-		<key>2714F8BE3202D34443E36460E0FB846A</key>
+		<key>0B94C448D5CED8575BD3DB578E56EE95</key>
 		<dict>
 			<key>fileRef</key>
-			<string>06B231F0910E12566EC4FBF3AEC5032A</string>
+			<string>17FCFF1664FFAC82350718A49B8F9D6E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-ObjC</string>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
 			</dict>
 		</dict>
-		<key>28CEC59E1A1037E0D94BB61F859254E9</key>
+		<key>0C9D1301B758571410A4FCF59B152472</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>FF60DFEC7FE0BD0D3D34E7E824641D1A</string>
+				<string>5BED4E95EDB43038FF59021ECE0106B5</string>
+				<string>D7F0CEC850D8E201F91D5F305E26196D</string>
+				<string>A9A10DB3E4A3C9242DAD004072BDD9C8</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>0D95BD56DA4B6F4B197ED5C1EE69E3E3</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -285,22 +146,115 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>29440D3CCD8788D08D7D4413E9DE533C</key>
+		<key>1031EBDA8CD493325956083B4AC9A1BA</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>C202CEF9CD1010A0AF9A346E152885EC</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>10DB7540DCDA9A32508B694DEA0B8255</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>05DBD86572391175BCCF48AAE4FE1C84</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Pods-SwiftMoEngageIntegration/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>9.2</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Pods-SwiftMoEngageIntegration/Pods-SwiftMoEngageIntegration.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PODS_ROOT</key>
+				<string>$(SRCROOT)</string>
+				<key>PRODUCT_NAME</key>
+				<string>Pods_SwiftMoEngageIntegration</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>1153F95F56742AAC355233279EDED72E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3C593D9577027D05F925CE1CB6F4D6EF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>14B8B9B15ECBE87983FF987239AB2D7B</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>0B1B6EC1CE4224D250E68E1A769C75E2</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>154644BE474E1611FEDE9B77A5F4326B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>MOInboxViewController.m</string>
+			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>MOInbox/MOInboxViewController.m</string>
+			<string>MoEngage-iOS-SDK.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2C7D5BB03D515424313825BF6A220E85</key>
+		<key>17FCFF1664FFAC82350718A49B8F9D6E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -312,6 +266,66 @@
 			<string>MOPayloadBuilder.h</string>
 			<key>path</key>
 			<string>MOHeaders/MOPayloadBuilder.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1C2D7A92A541E327FB2DCA2F8CE8A018</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegrationTests-frameworks.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1E613A7D2C829BAA021C882702B73910</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>F3AEC0195F6B9840C460C819679E34AF</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>1F3E241E32F1E3A6AA3BE342B5C5FF31</key>
+		<dict>
+			<key>fileRef</key>
+			<string>770D0E1F82EBF30E943946E74AF73E34</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>28D44B33C5F81C5B45C1A87B7234E194</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B8856734764F5B25B389AC3EDD474A7C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>2C0761C1E2E9181F8A0E213C267C3D6A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MoEngage-iOS-SDK-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -329,16 +343,137 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>34057BC623B823E659B0E0CD9BA16DD5</key>
+		<key>2EF73ED7AF78AE380F733CC68F1810CA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2F1702368A5092CE96348F7940DBAAF8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3143863D28D69C82588146D820180636</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>48B51F2A9AAF8F0E8BDBB6F13CA73F51</string>
+			<key>remoteInfo</key>
+			<string>MoEngage-iOS-SDK</string>
+		</dict>
+		<key>32FD137B7040A3CA0368985D6B8BB258</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MOInbox.h</string>
+			<key>path</key>
+			<string>MOInbox/MOInbox.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>37F671B4A8C99156727625A82744BA67</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3B5267C2AEFA98C0B275189F9C663CF2</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods_SwiftMoEngageIntegration.framework</string>
+			<key>path</key>
+			<string>Pods_SwiftMoEngageIntegration.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>3C593D9577027D05F925CE1CB6F4D6EF</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>Foundation.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>3D978FB1EE337A52E545155EF4DABD46</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>FBCF5CE86578DF8559F3B1BD41040E8D</string>
+			<string>840713761DCF2207B565C1ABD91392BB</string>
 			<key>buildSettings</key>
 			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
 				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Pods-SwiftMoEngageIntegration/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
 				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
 				<string>9.2</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Pods-SwiftMoEngageIntegration/Pods-SwiftMoEngageIntegration.modulemap</string>
 				<key>MTL_ENABLE_DEBUG_INFO</key>
 				<string>NO</string>
 				<key>OTHER_LDFLAGS</key>
@@ -348,18 +483,337 @@
 				<key>PODS_ROOT</key>
 				<string>$(SRCROOT)</string>
 				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
+				<string>Pods_SwiftMoEngageIntegration</string>
 				<key>SDKROOT</key>
 				<string>iphoneos</string>
 				<key>SKIP_INSTALL</key>
 				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>374C30AC6C9E841B1D5EC7C1364C4D1A</key>
+		<key>3DFAB0F6995F4B04DF004633A4AD8579</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegration-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>40C23C617D783C8BDE86ABBD05EAFFDA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>05C332E91492F2293DE2525AD314DB2F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>411BDB89C7AA9A4661683D0D46ACD6EB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegrationTests.debug.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4179DD59948FD97C40522283073E1542</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegration-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4255080C08559AF00BBFD0CC7A4C0510</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegration-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>43B210F2717BD243B0D2E6652840B77E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.plug-in</string>
+			<key>path</key>
+			<string>MoEngage.bundle</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>458F5057737336006175ABB94DA735B8</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods.framework</string>
+			<key>path</key>
+			<string>Pods.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>46171E29E32AA2FF2F77DCC8C1302F47</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>MoEngage_iOS_SDK.framework</string>
+			<key>path</key>
+			<string>MoEngage_iOS_SDK.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>48B51F2A9AAF8F0E8BDBB6F13CA73F51</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>566B518FD0C5D98D976E9398DF30260B</string>
+			<key>buildPhases</key>
+			<array>
+				<string>0C9D1301B758571410A4FCF59B152472</string>
+				<string>85FB76BBE678CA12C2FD6773907F6B0A</string>
+				<string>9FD524F11080603FFBF642168B4565DC</string>
+				<string>71683959D37AEBAE9BB30004DCF74E37</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>MoEngage-iOS-SDK</string>
+			<key>productName</key>
+			<string>MoEngage-iOS-SDK</string>
+			<key>productReference</key>
+			<string>46171E29E32AA2FF2F77DCC8C1302F47</string>
+			<key>productType</key>
+			<string>com.apple.product-type.framework</string>
+		</dict>
+		<key>4A6C26CE80371FC0445F97EDA48B4412</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E5754C2BBE64A29123503B431F64BB51</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>4CF0F5BD1ACFE50BA98ED71AA77BC58D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3C593D9577027D05F925CE1CB6F4D6EF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4D5F62DD8C07D28601D83D3C56C7F0C7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F7DF11CC3C2D94ECC291F861A20B3433</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4D63F997A38D79F088E39BF321923828</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3C593D9577027D05F925CE1CB6F4D6EF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>51D54FDF04770F6264F74252C883726B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>001CECC07C0ADEAC2EBCBBCE20938291</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>5394262FF873111CAAAC8C622A6D094D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D23AB87876AEE93D2F9F8A02996CAFC3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>566B518FD0C5D98D976E9398DF30260B</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>853D0DF261BB28361927A3E5314258D4</string>
+				<string>F2B055247899E0F85ABE79BBE0191059</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>572588CBE0720CDEA2BFB8BF633C954A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>archive.ar</string>
+			<key>path</key>
+			<string>libMoEngageSDK.a</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>583CFDB8659D4566B4E6C94F99E13F1A</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>4D63F997A38D79F088E39BF321923828</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>58694695CEDF8B87569FEA7351383491</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>572588CBE0720CDEA2BFB8BF633C954A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5A205AF4E731554EB37CE55758A03C60</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>5FB9A60EB7F79CA5BE297A66A782D2C7</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Pods-SwiftMoEngageIntegrationTests/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>9.2</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Pods-SwiftMoEngageIntegrationTests/Pods-SwiftMoEngageIntegrationTests.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>NO</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PODS_ROOT</key>
+				<string>$(SRCROOT)</string>
+				<key>PRODUCT_NAME</key>
+				<string>Pods_SwiftMoEngageIntegrationTests</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>5B439A189F181217043ADF654843A982</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -374,248 +828,159 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3884E2CC0BE4BED300CBD42D77D040F3</key>
+		<key>5BED4E95EDB43038FF59021ECE0106B5</key>
 		<dict>
-			<key>buildConfigurationList</key>
-			<string>CF7735305C0089A88F1DD21145990DB4</string>
-			<key>buildPhases</key>
-			<array>
-				<string>B107358732790905A7026050BEC8FA74</string>
-				<string>5CB1A1E28841EFE71DBBCCA59E831D13</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>0930EA39A0AAB79C01AD319FEF3CDBEB</string>
-			</array>
+			<key>fileRef</key>
+			<string>0995606ACE3632CBCF2221F793C1023A</string>
 			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>productName</key>
-			<string>Pods</string>
-			<key>productReference</key>
-			<string>DFAE08D604566FCC6614B8B7DABEDE89</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>3CFEE5318DA9A5CEA0BBA89FAE280579</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>A555945D040B487BEA4B359364E94872</string>
-			<key>buildPhases</key>
-			<array>
-				<string>70766B4C1349731E7A9230BC9885FAAC</string>
-				<string>695BD523D58A460D9E823D81EFEDF888</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>2446E173FF9446C090B8603A72D87582</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-SwiftMoEngageIntegrationTests</string>
-			<key>productName</key>
-			<string>Pods-SwiftMoEngageIntegrationTests</string>
-			<key>productReference</key>
-			<string>7C7A20A1983E75C45A698F8E599268A3</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>3FB7A4EAA0AFCFC15D73BAEB8CA73988</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Security.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Security.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>40FF9D504D487E02E440D9E2E44EDF41</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>13677ECA91CBEDBEC4392FC33CA256B3</string>
-			<key>buildSettings</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
 			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.2</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
+				<key>COMPILER_FLAGS</key>
+				<string>-ObjC</string>
 			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
 		</dict>
-		<key>417F1A6CBC62BE0C030F722F4B7BA2DB</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>DA8EFE21346E17CB2B14BD59F991068C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>44CE0F394CE7163F64B5D16C72246C3A</key>
+		<key>5FB9A60EB7F79CA5BE297A66A782D2C7</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MOInboxPushDataModel.h</string>
+			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>MOInbox/MOInboxPushDataModel.h</string>
+			<string>Pods-SwiftMoEngageIntegrationTests.release.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4515438EBB19739829B3BAC2025A775F</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>691616169B91DDB7A8E9204B73EC343C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.2</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>4C61657BD7D0AA4717BC5A533E905331</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6DFEB197F8F810F54250D42D75220323</string>
-				<string>9176E39D62CAD6DF3B8B3A3EF73473A4</string>
-				<string>02191FFB24B1BD5AFE093AB974578F53</string>
-				<string>D4580013A58F64C1183E83C135A8E7BD</string>
-				<string>FC5E6B0CE71F7393DE3AA80FF61CF757</string>
-				<string>FBCF5CE86578DF8559F3B1BD41040E8D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-SwiftMoEngageIntegration</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-SwiftMoEngageIntegration</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>59CBDDBC06F1F96BD0E71DF055E9A4FC</key>
+		<key>68118ACEBE5B95EDBE93295878763E88</key>
 		<dict>
 			<key>buildConfigurationList</key>
-			<string>C51E40C934E4CEAA779E921224B7CA90</string>
+			<string>EB5DC75E8A5A70DDC310083B4A7FC90C</string>
 			<key>buildPhases</key>
 			<array>
-				<string>B51C7FF2ACCE7688C9171BD8639BCE98</string>
-				<string>1624AE706E644E84F6B925EE96C26068</string>
-				<string>18D86351EA3FC414221D37D563EF869E</string>
+				<string>1E613A7D2C829BAA021C882702B73910</string>
+				<string>97552F5EF613B8AE08EE660C8F9C25D9</string>
+				<string>1031EBDA8CD493325956083B4AC9A1BA</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
 			<key>dependencies</key>
-			<array/>
+			<array>
+				<string>E38BF46FF9B8481CEFF384B0AC748251</string>
+			</array>
 			<key>isa</key>
 			<string>PBXNativeTarget</string>
 			<key>name</key>
-			<string>MoEngage-iOS-SDK</string>
+			<string>Pods-SwiftMoEngageIntegration</string>
 			<key>productName</key>
-			<string>MoEngage-iOS-SDK</string>
+			<string>Pods-SwiftMoEngageIntegration</string>
 			<key>productReference</key>
-			<string>C84637A3BD44EFE51751CC8518C4B437</string>
+			<string>3B5267C2AEFA98C0B275189F9C663CF2</string>
 			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
+			<string>com.apple.product-type.framework</string>
 		</dict>
-		<key>5A915B41AB07A7746E9C6515EBC6A73B</key>
+		<key>6A7E4D08667CE212547D4E46EE1CBC6C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegration-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6BE80571E741A1D54870696E823A7A1A</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>D86EE158A32E395E0487001AF476E56F</string>
+				<string>D5C90C67280913AE9A70916E5B3CDD48</string>
+				<string>76ECA13827268F28771F8A2F2FCA81F2</string>
+				<string>AEF3977DAA2A6E1598A27E3516BAC54F</string>
+				<string>82143AD5A93275F8F0D6C57D02FFBF19</string>
+				<string>1C2D7A92A541E327FB2DCA2F8CE8A018</string>
+				<string>73FE2201DEA17A8E28F857304F35F920</string>
+				<string>E5754C2BBE64A29123503B431F64BB51</string>
+				<string>411BDB89C7AA9A4661683D0D46ACD6EB</string>
+				<string>5FB9A60EB7F79CA5BE297A66A782D2C7</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods-SwiftMoEngageIntegrationTests</string>
+			<key>path</key>
+			<string>Target Support Files/Pods-SwiftMoEngageIntegrationTests</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6CFCB1DA0E3D0CB99627571BF1D32C7B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>6E773B39C4FD6520CC45FBF0760339D2</string>
+			<string>F242AC10FCA1119AFADF8F5D31BC0E22</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>5CB1A1E28841EFE71DBBCCA59E831D13</key>
+		<key>6D723105CC810CB89E6221E7B3C9E80E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MOInboxTableViewCell.m</string>
+			<key>path</key>
+			<string>MOInbox/MOInboxTableViewCell.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6E3EB01D45F3727CC87E682FAB1B3B16</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2EF73ED7AF78AE380F733CC68F1810CA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>71683959D37AEBAE9BB30004DCF74E37</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>BD0D7E4B6219908498B0AE1985CA16E6</string>
+				<string>E3880867BF466E5DC899C6C5D8D70572</string>
+				<string>783CEBFABA805093BF8061440E44B09D</string>
 			</array>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
+			<string>PBXResourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>5CBB40A342A62FDDBA77B7B53633F37B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3FB7A4EAA0AFCFC15D73BAEB8CA73988</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5DF7F56EE77F7C8CFA0764E1584BA8C4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2C7D5BB03D515424313825BF6A220E85</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5FCE6597234EB56F8C494C3387A37C81</key>
+		<key>72572018FC964224C9E4F7259284F7CE</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>94991AD4DDF48A7BA310FFBAE2137065</string>
-				<string>28CEC59E1A1037E0D94BB61F859254E9</string>
-				<string>D5970A0F2F97899173626BAC36781B14</string>
-				<string>82E4FFFFB51B40826BC150278251509E</string>
-				<string>13677ECA91CBEDBEC4392FC33CA256B3</string>
-				<string>6A38E26D4CB2F913E119B0C10A959AB8</string>
+				<string>37F671B4A8C99156727625A82744BA67</string>
+				<string>922B24FE2CFC62019D9FD9B9F4682FA7</string>
+				<string>A72A5568C843DA424BD08C953618A27C</string>
+				<string>0D95BD56DA4B6F4B197ED5C1EE69E3E3</string>
+				<string>F7DF11CC3C2D94ECC291F861A20B3433</string>
+				<string>785C8042ACFB552215F590FEAB0D0BE4</string>
+				<string>DE86D5D907E8B2B6DF3AB8622DC2882F</string>
+				<string>2EF73ED7AF78AE380F733CC68F1810CA</string>
+				<string>FDF777CA7C24705B6B86A06258CE380B</string>
+				<string>D35F2156E42A893A79D9E6E323B02BEA</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -626,120 +991,35 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>687C36384F249E431E4DCA749966436C</key>
+		<key>72780679F4F95A26A4882512B86109E4</key>
 		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>59CBDDBC06F1F96BD0E71DF055E9A4FC</string>
-			<key>remoteInfo</key>
-			<string>MoEngage-iOS-SDK</string>
-		</dict>
-		<key>691616169B91DDB7A8E9204B73EC343C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegrationTests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>695BD523D58A460D9E823D81EFEDF888</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>children</key>
 			<array>
-				<string>922C30AD4004813573DBF022EF66B937</string>
+				<string>72572018FC964224C9E4F7259284F7CE</string>
+				<string>975B0BBB04A9273308E913BC2DF4C5DA</string>
+				<string>6BE80571E741A1D54870696E823A7A1A</string>
 			</array>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6A38E26D4CB2F913E119B0C10A959AB8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6C6434DECFA322879D5836AC7C704D6F</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>B98FF63AE243E45F7BAB8D392E07BA26</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6DAD8A1F930B4ED51F8FDB8E5BD0D582</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ADF822C0ECE03A9FB78F94EC327BBF0B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6DFEB197F8F810F54250D42D75220323</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegration-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E773B39C4FD6520CC45FBF0760339D2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>PBXGroup</string>
 			<key>name</key>
-			<string>MoEngage.h</string>
-			<key>path</key>
-			<string>MOHeaders/MoEngage.h</string>
+			<string>Targets Support Files</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6F629D2DCD9C11A7BD31D278C8A19571</key>
+		<key>73FE2201DEA17A8E28F857304F35F920</key>
 		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
+			<key>includeInIndex</key>
 			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>59CBDDBC06F1F96BD0E71DF055E9A4FC</string>
-			<key>remoteInfo</key>
-			<string>MoEngage-iOS-SDK</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegrationTests-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>701E3177CA31EFE691C3D4E98647B3C9</key>
+		<key>76ECA13827268F28771F8A2F2FCA81F2</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -752,86 +1032,27 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>70766B4C1349731E7A9230BC9885FAAC</key>
+		<key>770D0E1F82EBF30E943946E74AF73E34</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>7BB7BCB6B279051EB96C3C7D4FEBA0D5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7B72F692ECFBE7C29F0E1D06C5E7E072</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>MOInboxTableViewCell.h</string>
+			<string>SystemConfiguration.framework</string>
 			<key>path</key>
-			<string>MOInbox/MOInboxTableViewCell.h</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/SystemConfiguration.framework</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>7B83D8042D9168D2558FA6A5165C0B2E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D466010F2E438D16F3394CF07A1A0857</string>
-				<string>92740434D56BE20A9A4C4BCD42BC3F74</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7BB7BCB6B279051EB96C3C7D4FEBA0D5</key>
+		<key>783CEBFABA805093BF8061440E44B09D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B17868BA7C0E14A1D346D64454292263</string>
+			<string>AE90DBBEFC02479E0151B90CD4BD8335</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>7C7A20A1983E75C45A698F8E599268A3</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libPods-SwiftMoEngageIntegrationTests.a</string>
-			<key>path</key>
-			<string>libPods-SwiftMoEngageIntegrationTests.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>14B8B9B15ECBE87983FF987239AB2D7B</string>
-				<string>915671167E0CE48AB7B0D7E5CF179A7E</string>
-				<string>CCA510CFBEA2D207524CDA0D73C3B561</string>
-				<string>94C3093253CED90D5124EB2D24399763</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>82E4FFFFB51B40826BC150278251509E</key>
+		<key>785C8042ACFB552215F590FEAB0D0BE4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -840,11 +1061,128 @@
 			<key>lastKnownFileType</key>
 			<string>text.script.sh</string>
 			<key>path</key>
-			<string>Pods-resources.sh</string>
+			<string>Pods-frameworks.sh</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>835470B64B3C938287D1822AA8862F68</key>
+		<key>794AB0225A398D654AAB49885219AB6B</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>6E3EB01D45F3727CC87E682FAB1B3B16</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>7C83FEF0BA694FE3FCD56B5FA7FC7CF2</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>D35F2156E42A893A79D9E6E323B02BEA</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Pods/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>9.2</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Pods/Pods.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>NO</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PODS_ROOT</key>
+				<string>$(SRCROOT)</string>
+				<key>PRODUCT_NAME</key>
+				<string>Pods</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>7CA8FC1A15BA68D2D673699CAB3C5D02</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E3D3B4867BB06C89448B859A1787BAEB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>7DB346D0F39D3F0E887471402A8071AB</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
+				<string>14B8B9B15ECBE87983FF987239AB2D7B</string>
+				<string>915671167E0CE48AB7B0D7E5CF179A7E</string>
+				<string>F7CE0D418745F9EE8DA01394BD29E02D</string>
+				<string>72780679F4F95A26A4882512B86109E4</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>806714FCE033D9C31B4AAEFCC8B2C96A</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>4A6C26CE80371FC0445F97EDA48B4412</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>82143AD5A93275F8F0D6C57D02FFBF19</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -852,49 +1190,166 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>MOInboxExposedConstants.m</string>
 			<key>path</key>
-			<string>MOInbox/MOInboxExposedConstants.m</string>
+			<string>Pods-SwiftMoEngageIntegrationTests-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>85ABA59863352A77A38AEDCB431EE511</key>
+		<key>83AE7A72C8149C8837D4482F2C9A1872</key>
 		<dict>
-			<key>fileRef</key>
-			<string>1AE5FE92446C57918F056C1F48B82815</string>
+			<key>children</key>
+			<array>
+				<string>CB35F180939288D443D5A7CDE8402FE9</string>
+				<string>D23AB87876AEE93D2F9F8A02996CAFC3</string>
+				<string>E3D3B4867BB06C89448B859A1787BAEB</string>
+				<string>32FD137B7040A3CA0368985D6B8BB258</string>
+				<string>5B439A189F181217043ADF654843A982</string>
+				<string>0995606ACE3632CBCF2221F793C1023A</string>
+				<string>9DFD05143B1C40DFDAA22D95E867313D</string>
+				<string>05C332E91492F2293DE2525AD314DB2F</string>
+				<string>6D723105CC810CB89E6221E7B3C9E80E</string>
+				<string>B8856734764F5B25B389AC3EDD474A7C</string>
+				<string>FE1E1F08B409F0CFDAD2FDF6591D5ED7</string>
+				<string>17FCFF1664FFAC82350718A49B8F9D6E</string>
+				<string>58694695CEDF8B87569FEA7351383491</string>
+				<string>09A742B24E963CB8A01AE15FE39BCB7E</string>
+				<string>E1B38B3E19EDE5576DA59F3527F49948</string>
+			</array>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>MoEngage-iOS-SDK</string>
+			<key>path</key>
+			<string>MoEngage-iOS-SDK</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8885256374652D05205447FC68DB2B2B</key>
+		<key>840713761DCF2207B565C1ABD91392BB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegration.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>853D0DF261BB28361927A3E5314258D4</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>C737D8A3BAD0E0FA3676DACE179E9D74</string>
+			<string>154644BE474E1611FEDE9B77A5F4326B</string>
 			<key>buildSettings</key>
 			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
 				<string>YES</string>
 				<key>GCC_PREFIX_HEADER</key>
 				<string>Target Support Files/MoEngage-iOS-SDK/MoEngage-iOS-SDK-prefix.pch</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/MoEngage-iOS-SDK/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
 				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
 				<string>9.2</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/MoEngage-iOS-SDK/MoEngage-iOS-SDK.modulemap</string>
 				<key>MTL_ENABLE_DEBUG_INFO</key>
 				<string>YES</string>
 				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
+				<string>$(inherited) "-ObjC"</string>
 				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
+				<string>MoEngage_iOS_SDK</string>
 				<key>SDKROOT</key>
 				<string>iphoneos</string>
 				<key>SKIP_INSTALL</key>
 				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Debug</string>
+		</dict>
+		<key>85FB76BBE678CA12C2FD6773907F6B0A</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>A1B20971AE4A2521C0FC6872D0E5E2CE</string>
+				<string>1153F95F56742AAC355233279EDED72E</string>
+				<string>6CFCB1DA0E3D0CB99627571BF1D32C7B</string>
+				<string>1F3E241E32F1E3A6AA3BE342B5C5FF31</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>86A7371D2BE7FDAF72EA88EE3A825D67</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>MoEngage-iOS-SDK</string>
+			<key>target</key>
+			<string>48B51F2A9AAF8F0E8BDBB6F13CA73F51</string>
+			<key>targetProxy</key>
+			<string>3143863D28D69C82588146D820180636</string>
+		</dict>
+		<key>894DE1414C279481F6CAD7E76B12F729</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CB35F180939288D443D5A7CDE8402FE9</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>89FFA4DC5DC9CD5EF3C31266529675AA</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods_SwiftMoEngageIntegrationTests.framework</string>
+			<key>path</key>
+			<string>Pods_SwiftMoEngageIntegrationTests.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 		<key>8D1534490D941DCA47C62AC4314182AF</key>
 		<dict>
@@ -969,68 +1424,11 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>8D72C51E70C18311EA355176127A227C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8F67FB791EB1A6F57ED47C03F993E724</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8DB610F3EDC64EAF83FA88F35C9E7BBE</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C737D8A3BAD0E0FA3676DACE179E9D74</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/MoEngage-iOS-SDK/MoEngage-iOS-SDK-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.2</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>8F67FB791EB1A6F57ED47C03F993E724</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MoEngage-iOS-SDK-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9094B85EAC580863DC4B91F2931EC367</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F1AB284FE22CDF4767032D2C1E7A3D12</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>915671167E0CE48AB7B0D7E5CF179A7E</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>CCC17D36B066F5DD835F4CA08F73DC01</string>
+				<string>83AE7A72C8149C8837D4482F2C9A1872</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -1039,47 +1437,136 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9176E39D62CAD6DF3B8B3A3EF73473A4</key>
+		<key>922B24FE2CFC62019D9FD9B9F4682FA7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>Pods.modulemap</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>97552F5EF613B8AE08EE660C8F9C25D9</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>4CF0F5BD1ACFE50BA98ED71AA77BC58D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>975B0BBB04A9273308E913BC2DF4C5DA</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>2F1702368A5092CE96348F7940DBAAF8</string>
+				<string>A08F9DCA3FEB542A20F596B41B8105D4</string>
+				<string>3DFAB0F6995F4B04DF004633A4AD8579</string>
+				<string>B7BF16E7F8CFA48A76BACB1492B1A5F3</string>
+				<string>4179DD59948FD97C40522283073E1542</string>
+				<string>C02201F52A807443843FEDD7EE027420</string>
+				<string>6A7E4D08667CE212547D4E46EE1CBC6C</string>
+				<string>4255080C08559AF00BBFD0CC7A4C0510</string>
+				<string>05DBD86572391175BCCF48AAE4FE1C84</string>
+				<string>840713761DCF2207B565C1ABD91392BB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods-SwiftMoEngageIntegration</string>
+			<key>path</key>
+			<string>Target Support Files/Pods-SwiftMoEngageIntegration</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>98AE6937F5F8C5C8D6805E99AD235062</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>48B51F2A9AAF8F0E8BDBB6F13CA73F51</string>
+			<key>remoteInfo</key>
+			<string>MoEngage-iOS-SDK</string>
+		</dict>
+		<key>9DFD05143B1C40DFDAA22D95E867313D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MOInboxPushDataModel.h</string>
 			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegration-acknowledgements.plist</string>
+			<string>MOInbox/MOInboxPushDataModel.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>922C30AD4004813573DBF022EF66B937</key>
+		<key>9FD524F11080603FFBF642168B4565DC</key>
 		<dict>
-			<key>fileRef</key>
-			<string>E2F0D12AD6FC2EEC82A149942116DD62</string>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>894DE1414C279481F6CAD7E76B12F729</string>
+				<string>51D54FDF04770F6264F74252C883726B</string>
+				<string>5394262FF873111CAAAC8C622A6D094D</string>
+				<string>7CA8FC1A15BA68D2D673699CAB3C5D02</string>
+				<string>C85CFBC2DF1FF86025C1E604E369DD24</string>
+				<string>BFFBA3AE4B3A571DC63079AECEA5E125</string>
+				<string>EC4762AA3E03D536CBD7F1335FAEE5C7</string>
+				<string>40C23C617D783C8BDE86ABBD05EAFFDA</string>
+				<string>28D44B33C5F81C5B45C1A87B7234E194</string>
+				<string>0B94C448D5CED8575BD3DB578E56EE95</string>
+			</array>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
-		<key>92740434D56BE20A9A4C4BCD42BC3F74</key>
+		<key>A08F9DCA3FEB542A20F596B41B8105D4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.plug-in</string>
 			<key>path</key>
-			<string>MoEngage.bundle</string>
+			<string>Pods-SwiftMoEngageIntegration.modulemap</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9426B258B9C93442CD7AC52E09A7798B</key>
+		<key>A1B20971AE4A2521C0FC6872D0E5E2CE</key>
 		<dict>
 			<key>fileRef</key>
-			<string>BF649F0C88173C46B003DD2EC6F34B7E</string>
+			<string>CAE997699B51CA43FFE4024FACD987BC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>94991AD4DDF48A7BA310FFBAE2137065</key>
+		<key>A3427F3545F60DBEBE01674766D72C79</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>48B51F2A9AAF8F0E8BDBB6F13CA73F51</string>
+			<key>remoteInfo</key>
+			<string>MoEngage-iOS-SDK</string>
+		</dict>
+		<key>A72A5568C843DA424BD08C953618A27C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1092,42 +1579,45 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>94C3093253CED90D5124EB2D24399763</key>
+		<key>A80B3CB8F2F4F914522B204ECD275060</key>
 		<dict>
-			<key>children</key>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>5FCE6597234EB56F8C494C3387A37C81</string>
-				<string>4C61657BD7D0AA4717BC5A533E905331</string>
-				<string>95951C658978622BA0D6D80E107FC7AF</string>
+				<string>CB31E61BCF5A80E02A27B1A8B57B79F2</string>
 			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
-		<key>95951C658978622BA0D6D80E107FC7AF</key>
+		<key>A9A10DB3E4A3C9242DAD004072BDD9C8</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>701E3177CA31EFE691C3D4E98647B3C9</string>
-				<string>97B63637EBEB74D196C11E234F88923A</string>
-				<string>B17868BA7C0E14A1D346D64454292263</string>
-				<string>17A0C31E7F3990449EC837D50D223D2A</string>
-				<string>691616169B91DDB7A8E9204B73EC343C</string>
-				<string>0D3EFDDFEAD4F220162626C22190CF75</string>
-			</array>
+			<key>fileRef</key>
+			<string>FE1E1F08B409F0CFDAD2FDF6591D5ED7</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-ObjC</string>
+			</dict>
+		</dict>
+		<key>AE90DBBEFC02479E0151B90CD4BD8335</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Pods-SwiftMoEngageIntegrationTests</string>
+			<string>MOInbox.storyboard</string>
 			<key>path</key>
-			<string>Target Support Files/Pods-SwiftMoEngageIntegrationTests</string>
+			<string>MOInbox/MOInbox.storyboard</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>97B63637EBEB74D196C11E234F88923A</key>
+		<key>AEF3977DAA2A6E1598A27E3516BAC54F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1140,94 +1630,52 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>998981C75394C162D3BDF1D5E4F4A397</key>
+		<key>B032FB07804F749419A71D8378FFC71D</key>
 		<dict>
-			<key>baseConfigurationReference</key>
-			<string>0D3EFDDFEAD4F220162626C22190CF75</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.2</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>4D5F62DD8C07D28601D83D3C56C7F0C7</string>
+			</array>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
-		<key>9AF69049B7E489A6C69995DAA6F72B93</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MoEngage-iOS-SDK-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9B24DD0ED21B37C128D5143120AC6C99</key>
+		<key>B5E0FBA2EC06781A0C2D8EE615E7043B</key>
 		<dict>
 			<key>buildConfigurationList</key>
-			<string>1CB120F896A0AD708541AD48DBDF4694</string>
+			<string>B6410423440F819DD6BC5508EE70E07D</string>
 			<key>buildPhases</key>
 			<array>
-				<string>417F1A6CBC62BE0C030F722F4B7BA2DB</string>
-				<string>6C6434DECFA322879D5836AC7C704D6F</string>
+				<string>B032FB07804F749419A71D8378FFC71D</string>
+				<string>583CFDB8659D4566B4E6C94F99E13F1A</string>
+				<string>794AB0225A398D654AAB49885219AB6B</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
 			<key>dependencies</key>
 			<array>
-				<string>09EE8564AB4557751D0EBEF24CB2FAF3</string>
+				<string>C1CEA2CD068CB0478663743DEA51FB23</string>
 			</array>
 			<key>isa</key>
 			<string>PBXNativeTarget</string>
 			<key>name</key>
-			<string>Pods-SwiftMoEngageIntegration</string>
+			<string>Pods</string>
 			<key>productName</key>
-			<string>Pods-SwiftMoEngageIntegration</string>
+			<string>Pods</string>
 			<key>productReference</key>
-			<string>E92BF51FB4A1460D8E929C96E5DC50C1</string>
+			<string>458F5057737336006175ABB94DA735B8</string>
 			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
+			<string>com.apple.product-type.framework</string>
 		</dict>
-		<key>9C051731B21208E1F2AF415412389315</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>SystemConfiguration.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/SystemConfiguration.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>A555945D040B487BEA4B359364E94872</key>
+		<key>B6410423440F819DD6BC5508EE70E07D</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>4515438EBB19739829B3BAC2025A775F</string>
-				<string>998981C75394C162D3BDF1D5E4F4A397</string>
+				<string>BB29278D393668D0FC978E99E622EDF5</string>
+				<string>7C83FEF0BA694FE3FCD56B5FA7FC7CF2</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -1236,67 +1684,33 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>ADF822C0ECE03A9FB78F94EC327BBF0B</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreLocation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/CoreLocation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>B107358732790905A7026050BEC8FA74</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>D272B24FB8B8EB246FAE085147BC2406</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B17868BA7C0E14A1D346D64454292263</key>
+		<key>B7BF16E7F8CFA48A76BACB1492B1A5F3</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>text.plist.xml</string>
 			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegrationTests-dummy.m</string>
+			<string>Pods-SwiftMoEngageIntegration-acknowledgements.plist</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B51C7FF2ACCE7688C9171BD8639BCE98</key>
+		<key>B8856734764F5B25B389AC3EDD474A7C</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>BDDD326F7D7F4B7A6BADF75262EBF9FE</string>
-				<string>2714F8BE3202D34443E36460E0FB846A</string>
-				<string>09BA44AF161099DF4E3B22655533B861</string>
-				<string>8D72C51E70C18311EA355176127A227C</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B98FF63AE243E45F7BAB8D392E07BA26</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E2F0D12AD6FC2EEC82A149942116DD62</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MOInboxViewController.h</string>
+			<key>path</key>
+			<string>MOInbox/MOInboxViewController.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>BA6428E9F66FD5A23C0A2E06ED26CD2F</key>
 		<dict>
@@ -1315,57 +1729,42 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>BD0D7E4B6219908498B0AE1985CA16E6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E2F0D12AD6FC2EEC82A149942116DD62</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BDDD326F7D7F4B7A6BADF75262EBF9FE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>835470B64B3C938287D1822AA8862F68</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>COMPILER_FLAGS</key>
-				<string>-ObjC</string>
-			</dict>
-		</dict>
-		<key>BF649F0C88173C46B003DD2EC6F34B7E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MOEHelperConstants.h</string>
-			<key>path</key>
-			<string>MOHeaders/MOEHelperConstants.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C10525F45C2A13233F38F9E988EB134F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9C051731B21208E1F2AF415412389315</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C3D610CE995F78AC48CE4ED5146FD37D</key>
+		<key>BB29278D393668D0FC978E99E622EDF5</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>FC5E6B0CE71F7393DE3AA80FF61CF757</string>
+			<string>FDF777CA7C24705B6B86A06258CE380B</string>
 			<key>buildSettings</key>
 			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
 				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Pods/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
 				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
 				<string>9.2</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Pods/Pods.modulemap</string>
 				<key>MTL_ENABLE_DEBUG_INFO</key>
 				<string>YES</string>
 				<key>OTHER_LDFLAGS</key>
@@ -1375,30 +1774,74 @@
 				<key>PODS_ROOT</key>
 				<string>$(SRCROOT)</string>
 				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
+				<string>Pods</string>
 				<key>SDKROOT</key>
 				<string>iphoneos</string>
 				<key>SKIP_INSTALL</key>
 				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>C51E40C934E4CEAA779E921224B7CA90</key>
+		<key>BFFBA3AE4B3A571DC63079AECEA5E125</key>
 		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>8885256374652D05205447FC68DB2B2B</string>
-				<string>8DB610F3EDC64EAF83FA88F35C9E7BBE</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
+			<key>fileRef</key>
+			<string>5B439A189F181217043ADF654843A982</string>
 			<key>isa</key>
-			<string>XCConfigurationList</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C02201F52A807443843FEDD7EE027420</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegration-frameworks.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C1CEA2CD068CB0478663743DEA51FB23</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>MoEngage-iOS-SDK</string>
+			<key>target</key>
+			<string>48B51F2A9AAF8F0E8BDBB6F13CA73F51</string>
+			<key>targetProxy</key>
+			<string>98AE6937F5F8C5C8D6805E99AD235062</string>
+		</dict>
+		<key>C202CEF9CD1010A0AF9A346E152885EC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4255080C08559AF00BBFD0CC7A4C0510</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>C5A18280E9321A9268D1C80B7DA43967</key>
 		<dict>
@@ -1468,85 +1911,26 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>C737D8A3BAD0E0FA3676DACE179E9D74</key>
+		<key>C85CFBC2DF1FF86025C1E604E369DD24</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>32FD137B7040A3CA0368985D6B8BB258</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>MoEngage-iOS-SDK-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
-		<key>C84637A3BD44EFE51751CC8518C4B437</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libMoEngage-iOS-SDK.a</string>
-			<key>path</key>
-			<string>libMoEngage-iOS-SDK.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>CCA510CFBEA2D207524CDA0D73C3B561</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C84637A3BD44EFE51751CC8518C4B437</string>
-				<string>DFAE08D604566FCC6614B8B7DABEDE89</string>
-				<string>E92BF51FB4A1460D8E929C96E5DC50C1</string>
-				<string>7C7A20A1983E75C45A698F8E599268A3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CCC17D36B066F5DD835F4CA08F73DC01</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BF649F0C88173C46B003DD2EC6F34B7E</string>
-				<string>1AE5FE92446C57918F056C1F48B82815</string>
-				<string>F1AB284FE22CDF4767032D2C1E7A3D12</string>
-				<string>374C30AC6C9E841B1D5EC7C1364C4D1A</string>
-				<string>835470B64B3C938287D1822AA8862F68</string>
-				<string>44CE0F394CE7163F64B5D16C72246C3A</string>
-				<string>7B72F692ECFBE7C29F0E1D06C5E7E072</string>
-				<string>06B231F0910E12566EC4FBF3AEC5032A</string>
-				<string>18DF7A5085EF7F94508F970E57D722EA</string>
-				<string>29440D3CCD8788D08D7D4413E9DE533C</string>
-				<string>2C7D5BB03D515424313825BF6A220E85</string>
-				<string>6E773B39C4FD6520CC45FBF0760339D2</string>
-				<string>EE66F74EDD3A8A0CBF62FC80F715DB3D</string>
-				<string>7B83D8042D9168D2558FA6A5165C0B2E</string>
-				<string>CFD57A13E688D77923902D1C1D9F56AF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>MoEngage-iOS-SDK</string>
-			<key>path</key>
-			<string>MoEngage-iOS-SDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CF7735305C0089A88F1DD21145990DB4</key>
+		<key>C9E2EC174292EACFF71BAB9FB5C4792B</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>40FF9D504D487E02E440D9E2E44EDF41</string>
-				<string>0A26685345FA18B1A8D6984D6B9155BC</string>
+				<string>E89A373191E7D778F7683942072CB5E2</string>
+				<string>5A205AF4E731554EB37CE55758A03C60</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -1555,30 +1939,81 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>CFD57A13E688D77923902D1C1D9F56AF</key>
+		<key>CAE997699B51CA43FFE4024FACD987BC</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>D62E20D90A4E943860CA9C63E841C8E1</string>
-				<string>C737D8A3BAD0E0FA3676DACE179E9D74</string>
-				<string>8F67FB791EB1A6F57ED47C03F993E724</string>
-				<string>9AF69049B7E489A6C69995DAA6F72B93</string>
-			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>Support Files</string>
+			<string>CoreLocation.framework</string>
 			<key>path</key>
-			<string>../Target Support Files/MoEngage-iOS-SDK</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/CoreLocation.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>CB31E61BCF5A80E02A27B1A8B57B79F2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>82143AD5A93275F8F0D6C57D02FFBF19</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CB35F180939288D443D5A7CDE8402FE9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MOEHelperConstants.h</string>
+			<key>path</key>
+			<string>MOHeaders/MOEHelperConstants.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D272B24FB8B8EB246FAE085147BC2406</key>
+		<key>D23AB87876AEE93D2F9F8A02996CAFC3</key>
 		<dict>
-			<key>fileRef</key>
-			<string>D5970A0F2F97899173626BAC36781B14</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MoEngage.h</string>
+			<key>path</key>
+			<string>MOHeaders/MoEngage.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D318B2141CB1CCF5996EF59CE0B3E6A0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D35F2156E42A893A79D9E6E323B02BEA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D41D8CD98F00B204E9800998ECF8427E</key>
 		<dict>
@@ -1606,7 +2041,7 @@
 			<key>mainGroup</key>
 			<string>7DB346D0F39D3F0E887471402A8071AB</string>
 			<key>productRefGroup</key>
-			<string>CCA510CFBEA2D207524CDA0D73C3B561</string>
+			<string>F7CE0D418745F9EE8DA01394BD29E02D</string>
 			<key>projectDirPath</key>
 			<string></string>
 			<key>projectReferences</key>
@@ -1615,13 +2050,62 @@
 			<string></string>
 			<key>targets</key>
 			<array>
-				<string>59CBDDBC06F1F96BD0E71DF055E9A4FC</string>
-				<string>3884E2CC0BE4BED300CBD42D77D040F3</string>
-				<string>9B24DD0ED21B37C128D5143120AC6C99</string>
-				<string>3CFEE5318DA9A5CEA0BBA89FAE280579</string>
+				<string>48B51F2A9AAF8F0E8BDBB6F13CA73F51</string>
+				<string>B5E0FBA2EC06781A0C2D8EE615E7043B</string>
+				<string>68118ACEBE5B95EDBE93295878763E88</string>
+				<string>FE5599C0554F91EE90839DC2193593EC</string>
 			</array>
 		</dict>
-		<key>D4580013A58F64C1183E83C135A8E7BD</key>
+		<key>D5C90C67280913AE9A70916E5B3CDD48</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegrationTests.modulemap</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D7F0CEC850D8E201F91D5F305E26196D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6D723105CC810CB89E6221E7B3C9E80E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-ObjC</string>
+			</dict>
+		</dict>
+		<key>D867C12802803918DED9B610227595C9</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>036AE86495DF02F58B200682DE280F03</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>D86EE158A32E395E0487001AF476E56F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DE86D5D907E8B2B6DF3AB8622DC2882F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1630,24 +2114,285 @@
 			<key>lastKnownFileType</key>
 			<string>text.script.sh</string>
 			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegration-resources.sh</string>
+			<string>Pods-resources.sh</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D466010F2E438D16F3394CF07A1A0857</key>
+		<key>E1B38B3E19EDE5576DA59F3527F49948</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>D318B2141CB1CCF5996EF59CE0B3E6A0</string>
+				<string>E352D900677F37EEC3AFA3F599181FFF</string>
+				<string>154644BE474E1611FEDE9B77A5F4326B</string>
+				<string>F58302D8B488664C162CEB37C05624DE</string>
+				<string>2C0761C1E2E9181F8A0E213C267C3D6A</string>
+				<string>001CECC07C0ADEAC2EBCBBCE20938291</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/MoEngage-iOS-SDK</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E352D900677F37EEC3AFA3F599181FFF</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>MOInbox.storyboard</string>
 			<key>path</key>
-			<string>MOInbox/MOInbox.storyboard</string>
+			<string>MoEngage-iOS-SDK.modulemap</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D5970A0F2F97899173626BAC36781B14</key>
+		<key>E3880867BF466E5DC899C6C5D8D70572</key>
+		<dict>
+			<key>fileRef</key>
+			<string>43B210F2717BD243B0D2E6652840B77E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E38BF46FF9B8481CEFF384B0AC748251</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>MoEngage-iOS-SDK</string>
+			<key>target</key>
+			<string>48B51F2A9AAF8F0E8BDBB6F13CA73F51</string>
+			<key>targetProxy</key>
+			<string>A3427F3545F60DBEBE01674766D72C79</string>
+		</dict>
+		<key>E3D3B4867BB06C89448B859A1787BAEB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MOGeofenceHandler.h</string>
+			<key>path</key>
+			<string>MOGeofence/MOGeofenceHandler.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E5754C2BBE64A29123503B431F64BB51</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-SwiftMoEngageIntegrationTests-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E89A373191E7D778F7683942072CB5E2</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>411BDB89C7AA9A4661683D0D46ACD6EB</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Pods-SwiftMoEngageIntegrationTests/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>9.2</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MACH_O_TYPE</key>
+				<string>staticlib</string>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Pods-SwiftMoEngageIntegrationTests/Pods-SwiftMoEngageIntegrationTests.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PODS_ROOT</key>
+				<string>$(SRCROOT)</string>
+				<key>PRODUCT_NAME</key>
+				<string>Pods_SwiftMoEngageIntegrationTests</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>EB5DC75E8A5A70DDC310083B4A7FC90C</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>10DB7540DCDA9A32508B694DEA0B8255</string>
+				<string>3D978FB1EE337A52E545155EF4DABD46</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>EC4762AA3E03D536CBD7F1335FAEE5C7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9DFD05143B1C40DFDAA22D95E867313D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>F242AC10FCA1119AFADF8F5D31BC0E22</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>Security.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Security.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>F2B055247899E0F85ABE79BBE0191059</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>154644BE474E1611FEDE9B77A5F4326B</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/MoEngage-iOS-SDK/MoEngage-iOS-SDK-prefix.pch</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/MoEngage-iOS-SDK/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>9.2</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/MoEngage-iOS-SDK/MoEngage-iOS-SDK.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>NO</string>
+				<key>OTHER_LDFLAGS</key>
+				<string>$(inherited) "-ObjC"</string>
+				<key>PRODUCT_NAME</key>
+				<string>MoEngage_iOS_SDK</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>F3AEC0195F6B9840C460C819679E34AF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4179DD59948FD97C40522283073E1542</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F58302D8B488664C162CEB37C05624DE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MoEngage-iOS-SDK-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F7CE0D418745F9EE8DA01394BD29E02D</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>46171E29E32AA2FF2F77DCC8C1302F47</string>
+				<string>458F5057737336006175ABB94DA735B8</string>
+				<string>3B5267C2AEFA98C0B275189F9C663CF2</string>
+				<string>89FFA4DC5DC9CD5EF3C31266529675AA</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F7DF11CC3C2D94ECC291F861A20B3433</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1660,14 +2405,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D5C274BD0E53FC33C2F45D821390D1FE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E2F0D12AD6FC2EEC82A149942116DD62</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D62E20D90A4E943860CA9C63E841C8E1</key>
+		<key>FDF777CA7C24705B6B86A06258CE380B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1676,169 +2414,58 @@
 			<key>lastKnownFileType</key>
 			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>MoEngage-iOS-SDK.xcconfig</string>
+			<string>Pods.debug.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DA8EFE21346E17CB2B14BD59F991068C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>02191FFB24B1BD5AFE093AB974578F53</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DFAE08D604566FCC6614B8B7DABEDE89</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libPods.a</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>E006256D3E8D7EFB94B6BAB52AE3B7B0</key>
+		<key>FE1E1F08B409F0CFDAD2FDF6591D5ED7</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MOInboxViewController.m</string>
 			<key>path</key>
-			<string>libMoEngageSDK.a</string>
+			<string>MOInbox/MOInboxViewController.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E2F0D12AD6FC2EEC82A149942116DD62</key>
+		<key>FE5599C0554F91EE90839DC2193593EC</key>
 		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>E558C962428952EE1D7330CD61D78986</key>
-		<dict>
-			<key>children</key>
+			<key>buildConfigurationList</key>
+			<string>C9E2EC174292EACFF71BAB9FB5C4792B</string>
+			<key>buildPhases</key>
 			<array>
-				<string>ADF822C0ECE03A9FB78F94EC327BBF0B</string>
-				<string>E2F0D12AD6FC2EEC82A149942116DD62</string>
-				<string>3FB7A4EAA0AFCFC15D73BAEB8CA73988</string>
-				<string>9C051731B21208E1F2AF415412389315</string>
+				<string>A80B3CB8F2F4F914522B204ECD275060</string>
+				<string>D867C12802803918DED9B610227595C9</string>
+				<string>806714FCE033D9C31B4AAEFCC8B2C96A</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>86A7371D2BE7FDAF72EA88EE3A825D67</string>
 			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXNativeTarget</string>
 			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>Pods-SwiftMoEngageIntegrationTests</string>
+			<key>productName</key>
+			<string>Pods-SwiftMoEngageIntegrationTests</string>
+			<key>productReference</key>
+			<string>89FFA4DC5DC9CD5EF3C31266529675AA</string>
+			<key>productType</key>
+			<string>com.apple.product-type.framework</string>
 		</dict>
-		<key>E7F0F6D5C0D5CC551429B762F305A4DD</key>
+		<key>FF60DFEC7FE0BD0D3D34E7E824641D1A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>44CE0F394CE7163F64B5D16C72246C3A</string>
+			<string>F58302D8B488664C162CEB37C05624DE</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>E8D5DCA44D077CC0D55F18C470F9DFEB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>374C30AC6C9E841B1D5EC7C1364C4D1A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E92BF51FB4A1460D8E929C96E5DC50C1</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libPods-SwiftMoEngageIntegration.a</string>
-			<key>path</key>
-			<string>libPods-SwiftMoEngageIntegration.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>EE66F74EDD3A8A0CBF62FC80F715DB3D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E006256D3E8D7EFB94B6BAB52AE3B7B0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EFBDD4DA690DE2B1451E5990A4E021CA</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>59CBDDBC06F1F96BD0E71DF055E9A4FC</string>
-			<key>remoteInfo</key>
-			<string>MoEngage-iOS-SDK</string>
-		</dict>
-		<key>F1AB284FE22CDF4767032D2C1E7A3D12</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MOInbox.h</string>
-			<key>path</key>
-			<string>MOInbox/MOInbox.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FBCF5CE86578DF8559F3B1BD41040E8D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegration.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FC5E6B0CE71F7393DE3AA80FF61CF757</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-SwiftMoEngageIntegration.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>

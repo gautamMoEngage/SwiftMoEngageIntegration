@@ -10,10 +10,10 @@
 #define SwiftMoEngageIntegration_Bridging_Header_h
 
 #import <UIKit/UIKit.h>
-#import <MoEngage-iOS-SDK/MoEngage.h>
-#import <MoEngage-iOS-SDK/MOInbox.h>
-#import <MoEngage-iOS-SDK/MOEHelperConstants.h>
-#import <MoEngage-iOS-SDK/MOGeofenceHandler.h>
+//#import <MoEngage-iOS-SDK/MoEngage.h>
+//#import <MoEngage-iOS-SDK/MOInbox.h>
+//#import <MoEngage-iOS-SDK/MOEHelperConstants.h>
+//#import <MoEngage-iOS-SDK/MOGeofenceHandler.h>
 
 
 #endif /* SwiftMoEngageIntegration_Bridging_Header_h */

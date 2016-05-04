@@ -1,2 +1,6 @@
-MOENGAGE_IOS_SDK_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/MoEngage-iOS-SDK"
-MOENGAGE_IOS_SDK_OTHER_LDFLAGS = -l"MoEngageSDK" -framework "CoreLocation" -framework "Security" -framework "SystemConfiguration"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/MoEngage-iOS-SDK" "${PODS_ROOT}/Headers/Public"
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/MoEngage-iOS-SDK"
+OTHER_LDFLAGS = -l"MoEngageSDK" -framework "CoreLocation" -framework "Security" -framework "SystemConfiguration"
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES

@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import MoEngage_iOS_SDK
 
 class ViewController: UIViewController, MOInAppDelegate {
 
